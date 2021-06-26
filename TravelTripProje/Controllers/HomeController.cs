@@ -26,5 +26,6 @@ namespace TravelTripProje.Controllers
 
             return View();
         }
+        
     }
 }
